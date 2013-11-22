@@ -22,5 +22,6 @@ public class JavaApplication2 {
         System.out.println("----------------");
         System.out.println(n);
         System.out.println(p);
+        System.out.println("--...");
     }
 }
