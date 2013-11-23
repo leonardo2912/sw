@@ -1,0 +1,12 @@
+2013-11-08 12:42:41,871 - [INFO] - from play in pool-4-thread-5 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2013-11-08 12:42:55,312 - [INFO] - from play in play-internal-execution-context-1 
+datasource [jdbc:mysql://localhost/computers] bound to JNDI as DefaultDS
+
+2013-11-08 12:42:55,586 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://localhost/computers
+
+2013-11-08 12:42:56,490 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+

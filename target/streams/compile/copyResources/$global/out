@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Erick\Desktop\ejemplos\computer-database\conf\application.conf,C:\Users\Erick\Desktop\ejemplos\computer-database\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Erick\Desktop\ejemplos\computer-database\conf\evolutions,C:\Users\Erick\Desktop\ejemplos\computer-database\target\scala-2.10\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Erick\Desktop\ejemplos\computer-database\conf\messages,C:\Users\Erick\Desktop\ejemplos\computer-database\target\scala-2.10\classes\messages)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Erick\Desktop\ejemplos\computer-database\conf\routes,C:\Users\Erick\Desktop\ejemplos\computer-database\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Erick\Desktop\ejemplos\computer-database\conf\evolutions\default,C:\Users\Erick\Desktop\ejemplos\computer-database\target\scala-2.10\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Erick\Desktop\ejemplos\computer-database\conf\evolutions\default\1.sql,C:\Users\Erick\Desktop\ejemplos\computer-database\target\scala-2.10\classes\evolutions\default\1.sql)[0m
