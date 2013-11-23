@@ -15,6 +15,7 @@ import com.avaje.ebean.*;
 @Entity 
 public class Computer extends Model {
 
+    //este es una prueba de github
     private static final long serialVersionUID = 1L;
 
 	@Id
